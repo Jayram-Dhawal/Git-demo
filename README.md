@@ -1,1 +1,2 @@
-# Git-demo
+This is demo and testing repogitory.
+This is practice session.
